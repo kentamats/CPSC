@@ -1,3 +1,6 @@
+/// @file hello.cpp
+/// @brief Outputs Hello C++!
+/// @author Kentaro Matsuo
 #include <iostream>
 int main()
 {
