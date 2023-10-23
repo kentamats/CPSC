@@ -6,3 +6,8 @@ void add(char *name, int priority, int burst);
 
 // invoke the scheduler
 void schedule();
+
+void schedule_fcfs();
+void schedule_sjf();
+void schedule_priority();
+void schedule_rr();
